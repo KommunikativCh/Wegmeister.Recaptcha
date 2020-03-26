@@ -1,5 +1,5 @@
 {
-    "name": "wegmeister/recaptcha",
+    "name": "kommunikativch/recaptcha",
     "type": "neos-package",
     "license": "GPL-3.0-or-later",
     "description": "Form Element for the Flow Form Framework integrating Google's Recaptcha",
