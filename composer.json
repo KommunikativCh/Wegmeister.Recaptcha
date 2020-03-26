@@ -1,12 +1,13 @@
 {
-    "name": "wegmeister/recaptcha",
+    "name": "kommunikativch/recaptcha",
     "type": "neos-package",
     "license": "GPL-3.0-or-later",
     "description": "Form Element for the Flow Form Framework integrating Google's Recaptcha",
     "require": {
         "google/recaptcha": "^1.2",
-        "neos/form": "^4.0",
-        "php": "~7.0"
+        "neos/form": "^5.0",
+        "php": ">=7.1.0",
+        "neos/flow": ">=6.0"
     },
     "autoload": {
         "psr-4": {
